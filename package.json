@@ -1,0 +1,19 @@
+{
+  "name": "hubot-coin",
+  "description": "A Hubot script to help decide between two things",
+  "version": "0.0.1",
+  "main": "index.coffee",
+  "license": "MIT",
+  "homepage": "https://github.com/fordnox/hubot-coin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fordnox/hubot-coin.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "bugs": {
+    "url": "https://github.com/fordnox/hubot-coin/issues"
+  }
+}
